@@ -13,6 +13,10 @@ Steps are as follows:
 
 ●	Once we had head and tail along with relations, we created the triples to generate a Knowledge graph and visualized the Knowledge Graph in Neo4j Bloom.
 
+![image](https://user-images.githubusercontent.com/94585101/144887796-60af83fc-abeb-48bb-941c-a26caabad6d9.png)
+
+![image](https://user-images.githubusercontent.com/94585101/144887888-dd7d235c-49ad-4484-9f04-114cba0ababc.png)
+
 ●	We used various graph embedding results including Node2vec, Graphsage, attri2vec and GCN to train link prediction models and obtained acceptable auc-roc scores on the test dataset(graph).
 
 AUC-ROC of Each Link Prediction Model:	        
